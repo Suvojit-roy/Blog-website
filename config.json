@@ -1,0 +1,15 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/myblog",
+        "prod_uri":"mysql://root:@localhost/myblog",
+        "my_email":"",
+        "password":"",
+        "no_of_posts":2,
+        "admin_user":"Suvo",
+        "admin_password":"roy",
+        "upload_location":"D:\\dev\\flask\\static\\img"
+
+    }
+}
